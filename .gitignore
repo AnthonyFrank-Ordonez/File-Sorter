@@ -7,3 +7,8 @@ __pycache__/
 # Ignore the /temp folder
 temp/
 
+# Ignore the Following files in OLD subfolder
+OLD/File Sorter.py
+OLD/File Sorter-(With Comments).py
+OLD/FIle Sorter (v2.0) - with comments.py
+
