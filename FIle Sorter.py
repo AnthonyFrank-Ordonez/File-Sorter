@@ -99,9 +99,12 @@ class FileSorter:
 
 
 def main():
+    """main method"""
+    # Create the object of the FileSorter
     FS = FileSorter()
     FS.run_app()
 
 
 if __name__ == '__main__':
+    """Initializer"""
     main()
